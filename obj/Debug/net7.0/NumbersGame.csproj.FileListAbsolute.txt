@@ -1,0 +1,15 @@
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.AssemblyReference.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfoInputs.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.AssemblyInfo.cs
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.csproj.CoreCompileInputs.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/bin/Debug/net7.0/NumbersGame
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/bin/Debug/net7.0/NumbersGame.deps.json
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/bin/Debug/net7.0/NumbersGame.runtimeconfig.json
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/bin/Debug/net7.0/NumbersGame.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/bin/Debug/net7.0/NumbersGame.pdb
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/refint/NumbersGame.dll
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.pdb
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/NumbersGame.genruntimeconfig.cache
+/Users/damianamalraj/Documents/CHAS/Programmering med C# och .NET/NumbersGame/obj/Debug/net7.0/ref/NumbersGame.dll
